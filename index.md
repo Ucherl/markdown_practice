@@ -5,4 +5,10 @@
 ##### h5
 ###### h6
 
+```
+ function test(){
+  return "Hi";
+ }
+```
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
